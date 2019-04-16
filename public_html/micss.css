@@ -1,0 +1,69 @@
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  
+#navegadorSuperior {
+    /*background-color: #b88b4a;*/
+    background-image: linear-gradient(#710000, #edbb28);
+    text-shadow: black 0.3em 0.3em 0.3em;
+    
+  }
+  
+  
+  #ciudades {
+      text-shadow: black 0px 0px;
+  }
+  
+  .navbar-brand{
+      color:yellow;
+      font-size: 200%;
+  }
+  
+  .jumbotron{
+    margin-bottom:0;
+    margin-bottom: 0px;
+    background-image: url(img/j1.jpg);
+    background-position: 10% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    /*font-family: ;*/
+  }
+  
+  h1{
+      font-size: 400%;
+      color: white;
+/*      text-shadow: black 0.3em 0.3em 0.3em;
+      background-size: cover;
+      background-repeat: no-repeat;*/
+  }
+  
+  #textoJumbotron{
+      font-size: 200%;
+      color: black;
+      text-shadow: black 0px 0px;
+  }
+  
+  #footer{
+      font-size: 150%;
+      background-image: linear-gradient(#710000, #edbb28);
+      color: aquamarine;
+      text-shadow: black 0px 0px;
+  }
+  
+  body{
+      background-color: #edbb28;
+  }
+  
+  /*.dropdown{
+      text-align: center;
+  } */
+  
+  .imagenes:hover{
+      filter: sepia(60%);
+      /*-webkit-transform: scale(1.3);
+      transform: scale(1.3);*/
+  }
